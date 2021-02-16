@@ -19,7 +19,7 @@
 
 Looking for macOS version repo? [Pomosh-macOS](https://github.com/stevenselcuk/Pomosh-macOS) 
 
-## About 🍅 Pomosh
+## About :coffee: esp-resso
 
 
 Is it the first time remote working? Or are you tired of distraction at home in these COVID-19 days? Pomosh can help you fight against procrastination and distraction.
